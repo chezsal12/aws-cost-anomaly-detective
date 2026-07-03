@@ -6,7 +6,7 @@
 
 ---
 
-## TL;DR
+## At a Glance
 
 Traditional AWS cost alerts tell you *what* happened. We built a system using Amazon Bedrock (Claude 3.5 Sonnet) that tells you *why* it happened, *who* caused it, and *how* to fix it. Open source, production-ready, ~$30/month to run.
 

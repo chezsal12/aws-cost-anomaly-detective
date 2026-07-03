@@ -1,6 +1,6 @@
 # Building AI-Powered Cost Intelligence with Amazon Bedrock
 
-**Author**: Salomon Dushimirimana  
+**Author**: Chezsal Kamaray  
 **Date**: July 2026  
 **Reading Time**: 8 minutes
 
@@ -348,7 +348,7 @@ That's the power of AI in operations.
 
 ## About the Author
 
-**Salomon Dushimirimana** is a Solutions Architect at AWS, focused on emergent technologies and AI/ML. He helps customers build production AI systems that actually work.
+**Chezsal Kamaray** is a Solutions Architect at AWS, focused on emergent technologies and AI/ML. He helps customers build production AI systems that actually work.
 
 **Connect**: [GitHub](https://github.com/chezsal12) | [LinkedIn](#)
 

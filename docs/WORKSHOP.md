@@ -308,7 +308,7 @@ aws s3 rb s3://$BUCKET --force
 ## 📚 Additional Resources
 
 - [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
-- [AWS Cost Explorer API](https://docs.aws.amazon.com/cost-management/latest/APIReference/)
+- [AWS Cost Explorer API](https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/Welcome.html)
 - [CloudFormation Best Practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
 - [Lambda Best Practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 

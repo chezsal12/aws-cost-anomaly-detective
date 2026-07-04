@@ -319,6 +319,7 @@ Built by AWS Solutions Architects to showcase:
 
 - **Issues & Questions**: [GitHub Issues](https://github.com/chezsal12/aws-cost-anomaly-detective/issues)
 - **AWS Support**: For production issues, contact AWS Support
+- **Author**: [Chezsal Kamaray on LinkedIn](https://www.linkedin.com/in/chezsal-kamaray-beng-hons-msc-pmp-666bb715/)
 
 ---
 

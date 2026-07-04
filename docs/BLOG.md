@@ -350,7 +350,7 @@ That's the power of AI in operations.
 
 **Chezsal Kamaray** is a Solutions Architect at AWS, focused on emergent technologies and AI/ML. He helps customers build production AI systems that actually work.
 
-**Connect**: [GitHub](https://github.com/chezsal12) | [LinkedIn](#)
+**Connect**: [GitHub](https://github.com/chezsal12) | [LinkedIn](https://www.linkedin.com/in/chezsal-kamaray-beng-hons-msc-pmp-666bb715/)
 
 ---
 
